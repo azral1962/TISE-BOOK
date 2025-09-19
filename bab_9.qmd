@@ -1,0 +1,103 @@
+Tentu, berikut adalah draf Bab 9 dari buku Anda, yang membahas Struktur Disertasi dan Publikasi Ilmiah Berbasis TISE, dengan mengacu pada semua sumber yang diberikan dan riwayat percakapan kita:
+
+---
+
+## **Bab 9: Struktur Disertasi dan Publikasi Ilmiah Berbasis TISE**
+
+Setelah memahami metodologi inti TISE, termasuk dekomposisi masalah melalui ASTF (Bab 4), siklus kognitif Triune-PUDAL (Bab 5), penciptaan nilai holistik melalui PSKVE (Bab 6), metodologi validasi PICOC Sistematis (Bab 7), serta kerangka kerja W-Model (Bab 8), kini kita beralih ke aplikasi praktis dari semua konsep ini dalam ranah akademik: **penulisan disertasi dan publikasi ilmiah**. Bab ini akan menjadi panduan bagi mahasiswa dan peneliti untuk menyusun karya ilmiah yang tidak hanya kuat secara metodologis tetapi juga koheren, berdampak, dan mampu mengkomunikasikan kontribusi orisinal dalam kerangka TISE.
+
+### **9.1 Prinsip Penulisan Disertasi/Paper Ilmiah Berbasis TISE**
+
+Prinsip utama penulisan disertasi atau paper ilmiah dalam paradigma TISE adalah **mengajukan (advancing) sebuah cara/titik pandang (pengetahuan) yang baru, yang berdasarkan dari hasil riset yang valid**. Pengetahuan baru ini harus berdasarkan pertumbuhan suatu rumpun keilmuan dan ditulis dalam bahasa rumpun keilmuan tersebut. Proses riset itu sendiri adalah sebuah metode untuk memperoleh pengetahuan yang sahih (valid).
+
+Dalam riset rekayasa, terutama yang berorientasi ilmu rekayasa (eksperimental atau teoretis), tesis berupaya menghasilkan jawaban terhadap pertanyaan mengenai realitas dunia dari perspektif keilmuan. Ini bisa berupa pertanyaan eksperimental (apakah prediksi teori akurat?) atau pertanyaan teoretis (teori apa yang memadai untuk menjelaskan fenomena?). Tesis harus menjawab: apa rumusan masalah, mengapa jawaban sebelumnya tidak memadai, apa jawaban peneliti, dan seberapa baik jawaban peneliti dibandingkan dengan yang sudah ada.
+
+TISE mengidentifikasi tiga jenis hipotesis utama dalam riset rekayasa yang dapat menjadi fokus kontribusi:
+1.  **Hipotesis Solutif**: Menghasilkan solusi terbaik untuk suatu kelas kasus penting. Ini berurusan dengan masalah masyarakat umum (misalnya, masalah pendidikan/pembelajaran, kinerja pembelajar) dan bagaimana menggunakan solusi khusus (teknologi) dengan asumsi solusi khusus memiliki kemampuan tertentu.
+2.  **Hipotesis Aplikatif**: Berfokus pada strategi dan prosedur penerapan prinsip-prinsip untuk menghasilkan solusi khusus.
+3.  **Hipotesis Teoretis**: Menyatakan adanya prinsip-prinsip (misalnya, komputasi/elektrikal) baru yang menjadi dasar untuk mengatasi masalah pembuatan "solusi khusus".
+
+Disertasi adalah tulisan ilmiah yang memperlihatkan (i) penguasaan subjek/bidang dan (ii) kontribusi pengetahuan hasil riset, di mana riset membuktikan hipotesis/hipotesa yang efektif untuk menjawab permasalahan/pertanyaan.
+
+### **9.2 Panduan Proses Riset Disertasi dengan TISE: Delapan Tonggak Pencapaian**
+
+Proses riset doktoral dalam kerangka TISE dapat dipecah menjadi delapan tonggak pencapaian (*milestones*) yang logis, mulai dari menemukan topik hingga ujian akhir:
+
+*   **Milestone 1: Menemukan Topik**
+    *   **Hasil yang Diharapkan**: Dokumen Definisi Masalah dan Ruang Lingkup.
+    *   **Fokus TISE**: Fase ini sepenuhnya berada di **Lapisan Aplikasi (A)**. Tugas pertama adalah mengidentifikasi masalah manusia atau masyarakat yang signifikan dan mendesak, menggunakan **Kecerdasan Manusia (Homocordium)** Anda. Tentukan apakah ruang lingkup masalah cukup fokus untuk dapat diselesaikan dalam jangka waktu disertasi.
+*   **Milestone 2: Studi Literatur**
+    *   **Hasil yang Diharapkan**: Dokumen Analisis Solusi yang Ada (Mesin Eksisting) dan Peta ASTF-nya.
+    *   **Fokus TISE**: Fase ini adalah tentang membangun **Kontrol (C)** untuk kerangka PICOC Anda di semua lapisan. Identifikasi dan analisis solusi-solusi yang sudah ada, kemudian bedah dan petakan arsitektur ASTF-nya (aplikasi (A), sistem (S), teknologi (T), dan dasar ilmiahnya (F)). Evaluasi kapasitas PUDAL dan PSKVE mereka yang ada, serta identifikasi kelemahan atau kesenjangan penelitian (*research gap*) di setiap lapisan ASTF dari solusi yang ada sebagai justifikasi untuk intervensi Anda.
+*   **Milestone 3: Mengajukan Proyek Riset**
+    *   **Hasil yang Diharapkan**: Proposal Riset yang berisi Ide Mesin Baru, Peta ASTF, dan Desain Kaki Kiri Luar W-Model.
+    *   **Fokus TISE**: Ini adalah fase desain inti, di mana Anda mendefinisikan **Intervensi (I)** untuk kerangka PICOC Anda. Usulkan "mesin cerdas baru" Anda berdasarkan kesenjangan yang ditemukan, jelaskan bagaimana mesin ini akan memiliki enam karakteristik TISE, dan buat peta ASTF yang jelas untuk intervensi Anda. Rancang kaki kiri luar W-Model dengan mendekomposisikan kebutuhan dari lapisan A turun ke S, T, dan F. Rumuskan hipotesis atau pertanyaan penelitian untuk setiap lapisan menggunakan format PICOC.
+*   **Milestone 4 & 5: Kemajuan 1 & 2 (Pengembangan dan Validasi Awal)**
+    *   **Hasil yang Diharapkan**: *Testbed* ASTF yang berfungsi; Kaki Kanan Luar W-Model setengah selesai dan tervalidasi.
+    *   **Fokus TISE**: Fase ini adalah tentang implementasi dan pengujian, dimulai dari bawah ke atas (F->T->S). Bangun *testbed* atau lingkungan simulasi untuk memvalidasi hipotesis Anda di Lapisan Fundamental dan Teknologi, melakukan eksperimen sesuai desain PICOC(F) dan PICOC(T) Anda. Ini adalah awal dari pendakian di kaki kanan luar W-Model, yang divalidasi secara paralel oleh kaki kiri dalam W-Model.
+*   **Milestone 6: Kemajuan 3 (Integrasi dan Validasi Komprehensif)**
+    *   **Hasil yang Diharapkan**: Kaki Kanan Luar W-Model selesai dan tervalidasi sepenuhnya.
+    *   **Fokus TISE**: Integrasikan teknologi Anda (T) ke dalam sistem (S) dan uji kinerjanya menggunakan PICOC(S). Selanjutnya, uji sistem Anda dalam konteks aplikasi (A) untuk memvalidasi dampaknya pada pemangku kepentingan menggunakan PICOC(A). Ini menyelesaikan pendakian di kaki kanan luar W-Model, yang divalidasi secara ketat di setiap langkah oleh kaki kiri dalam.
+*   **Milestone 7 & 8: Menulis dan Ujian Akhir**
+    *   **Hasil yang Diharapkan**: Manuskrip disertasi yang siap dan kelulusan.
+    *   **Fokus TISE**: Dokumentasikan seluruh perjalanan metodis Anda. Tunjukkan penguasaan Anda atas paradigma TISE dengan menceritakan kisah penelitian Anda secara koheren. Saat ujian, Anda bukan hanya mempertahankan hasil, tetapi juga mempertahankan validitas proses rekayasa yang telah Anda jalani. Anda adalah seorang "Vokator"—seseorang yang menyuarakan kebenaran yang ditemukan melalui riset yang bertanggung jawab.
+
+### **9.3 Rekomendasi Struktur Penulisan Disertasi Teknik Menggunakan Kerangka TISE**
+
+Struktur disertasi yang mengikuti paradigma TISE akan secara alami menjadi kuat, logis, dan mudah diikuti. Kerangka ASTF dan PICOC berlapis menyediakan "tulang punggung" untuk narasi Anda. Berikut adalah templat struktur bab per bab yang direkomendasikan:
+
+*   **Judul Disertasi**: Harus ringkas, informatif, dan mencerminkan kontribusi inti.
+*   **Abstrak**: Gunakan struktur 6 poin yang efektif untuk menarik pembaca dan *reviewer*: (1) Konteks/Motivasi (masalah penting di Lapisan Aplikasi Cx(A)), (2) Masalah/Kesenjangan (keterbatasan pendekatan yang ada C), (3) Intervensi/Kontribusi (solusi baru I), (4) Metodologi (bagaimana pendekatan dievaluasi menggunakan PICOC), (5) Hasil (temuan utama), dan (6) Kesimpulan/Dampak (implikasi lebih luas).
+*   **Bab 1: Pendahuluan**
+    *   Mulai dengan "kail" yang kuat: jelaskan masalah dunia nyata yang penting dan mendesak (Konteks, Cx(A)).
+    *   Deskripsikan siapa yang terpengaruh oleh masalah ini (Populasi, P(A)).
+    *   Jelaskan solusi yang ada saat ini dan mengapa mereka tidak memadai (Kontrol, C(A) dan keterbatasan Hasilnya, O(C(A))).
+    *   Nyatakan dengan jelas tujuan disertasi Anda: untuk mengusulkan dan memvalidasi sebuah solusi baru yang inovatif.
+    *   Secara singkat, perkenalkan solusi Anda (Intervensi, I(A)) dan klaim utama tentang manfaatnya (Hasil yang diharapkan, O(A)).
+    *   Sebutkan kontribusi penelitian Anda di setiap lapisan ASTF.
+    *   Berikan peta jalan disertasi (outline bab-bab berikutnya).
+*   **Bab 2: Tinjauan Pustaka dan Landasan Teori**
+    *   Pendalaman Solusi Lama: Jelaskan bagaimana Solusi Lama (C(A)) bekerja, termasuk sistem (C(S)), teknologi (C(T)), dan prinsip fundamental (C(F)) yang mendasarinya.
+    *   Identifikasi Kesenjangan: Tinjau secara kritis literatur yang ada untuk menyoroti kesenjangan atau keterbatasan di setiap lapisan ASTF (A, S, T, F) yang relevan.
+    *   Landasan Teori untuk Solusi Baru: Bangun fondasi teoretis untuk Intervensi (I) Anda. Jelaskan teori-teori (dari F), teknologi (dari T), dan pendekatan sistem (dari S) yang akan digunakan untuk membangun solusi Anda.
+*   **Bab 3: Metodologi Penelitian**
+    *   Ini adalah bab terpenting untuk menunjukkan ketegasan metodologis Anda.
+    *   Jelaskan **W-Model TISE** sebagai kerangka kerja proses Anda secara keseluruhan, termasuk keempat kakinya dan interaksinya.
+    *   Kemudian, dedikasikan sub-bab untuk setiap lapisan ASTF, menjelaskan secara rinci desain eksperimen menggunakan kerangka PICOC (P, I, C, O, Cx) untuk PICOC(A), PICOC(S), PICOC(T), dan PICOC(F). Pastikan detailnya cukup untuk reproduktifitas.
+*   **Bab 4: Hasil dan Pembahasan**
+    *   Strukturkan bab ini berdasarkan lapisan ASTF, dari bawah ke atas (F->T->S->A) untuk membangun argumen Anda.
+    *   Sajikan luaran (O) untuk setiap lapisan: O(F), O(T), O(S), O(A), menggunakan tabel, gambar, dan grafik secara efektif.
+    *   Pembahasan harus menginterpretasikan hasil untuk setiap lapisan dalam konteksnya, menganalisis signifikansi peningkatan, dan secara eksplisit menghubungkan keberhasilan di lapisan bawah (misalnya, F atau T) yang memungkinkan atau berkontribusi pada luaran di lapisan atas (misalnya, S atau A). Ini menunjukkan koherensi penelitian Anda.
+    *   Diskusikan implikasi (misalnya, O(A) bagi P(A)), keterbatasan studi, dan potensi ancaman terhadap validitas internal dan eksternal temuan Anda.
+*   **Bab 5: Kesimpulan dan Saran**
+    *   Ringkas kembali masalah, pendekatan, dan kontribusi utama Anda di setiap lapisan ASTF.
+    *   Jawab kembali pertanyaan penelitian yang Anda ajukan di Bab 1.
+    *   Diskusikan dampak yang lebih luas dari pekerjaan Anda.
+    *   Berikan saran yang konkret dan dapat ditindaklanjuti untuk penelitian di masa depan, seperti mengatasi keterbatasan studi, memperluas solusi ke populasi atau konteks baru, atau menyelidiki perbaikan lebih lanjut di salah satu lapisan ASTF.
+
+### **9.4 Menulis Publikasi Ilmiah (IEEE Paper) Menggunakan Kerangka TISE**
+
+Mempublikasikan hasil disertasi di jurnal atau konferensi bereputasi seperti IEEE memerlukan strategi untuk memadatkan penelitian yang kaya dan berlapis menjadi narasi yang ringkas, tajam, dan berdampak.
+
+*   **Strategi Penceritaan: Pilih Benang Merah Anda**
+    *   Sebuah paper tidak bisa menceritakan semua detail dari disertasi Anda; Anda harus memilih satu "benang merah" atau kontribusi utama sebagai fokus.
+    *   **Contoh 1 (Fokus Teknologi)**: Jika kontribusi terkuat Anda adalah algoritma AI baru (Lapisan T), maka paper Anda akan berpusat pada itu. Pendahuluan akan memotivasi masalah dari Lapisan A. Bagian Metode akan merinci algoritma Anda (I(T)) dan bagaimana Anda membandingkannya dengan yang lain (C(T)). Bagian Hasil akan menunjukkan keunggulannya (O(T)). Kesimpulan akan membahas bagaimana teknologi superior ini dapat memungkinkan sistem yang lebih baik (implikasi untuk S) dan solusi yang lebih baik bagi pengguna (implikasi untuk A).
+    *   **Contoh 2 (Fokus Sistem)**: Jika kontribusi Anda adalah arsitektur sistem baru (Lapisan S), paper Anda akan fokus pada desain dan evaluasi sistem tersebut.
+*   **Struktur Abstrak yang Efektif**
+    *   Abstrak adalah bagian terpenting untuk menarik pembaca dan *reviewer*. Gunakan struktur 6 poin seperti yang dijelaskan sebelumnya.
+*   **Panduan Penulisan Makalah IEEE dengan PICOC Berlapis**
+    *   Struktur inti PICOC diterapkan pada setiap lapisan (P, I, C, O, Cx).
+    *   Empat lapisan temuan (A, S, T, F) masing-masing dengan PICOC-nya sendiri harus dijelaskan. Misalnya, Lapisan Aplikasi (A) berfokus pada pemecahan masalah pemangku kepentingan, dengan P(A) sebagai pemangku kepentingan dan O(A) sebagai peningkatan kinerja. Lapisan Riset Fundamental (F) berfokus pada penambahan khazanah ilmu pengetahuan, dengan P(F) sebagai fenomena dan O(F) sebagai pengetahuan baru.
+    *   Bagian pendahuluan harus memuat pernyataan masalah (Cx(A)), situasi saat ini (C(A)), pentingnya, solusi yang diusulkan (I(A)), tujuan dan kontribusi, serta garis besar makalah.
+    *   Tinjauan pustaka harus mendalami solusi lama (C(A), C(S), C(T), C(F)), mengidentifikasi kesenjangan, dan membangun dasar untuk solusi baru (I(A), I(S), I(T), I(F)).
+    *   Bagian metodologi harus merinci *bagaimana* penelitian disiapkan dan dilakukan untuk mengevaluasi intervensi di setiap lapisan, memastikan detail yang cukup untuk reproduktifitas.
+    *   Bagian hasil dan pembahasan harus menyajikan luaran (O) untuk setiap lapisan (A, S, T, F) secara jelas menggunakan gambar dan tabel, diikuti dengan pembahasan yang menginterpretasikan hasil, menganalisis signifikansi, implikasi, koneksi antar-lapisan, keterbatasan, dan ancaman terhadap validitas.
+    *   Kesimpulan harus merangkum kontribusi, menjawab pertanyaan penelitian, membahas dampak lebih luas, dan menyarankan pengembangan selanjutnya.
+
+### **9.5 Mengantisipasi Pertanyaan *Reviewer* dan Menghasilkan Publikasi**
+
+Dengan mengikuti kerangka TISE, Anda dapat secara efektif mengantisipasi pertanyaan *reviewer* yang umum dan menjelaskan kebaruan, validasi, dan signifikansi praktis dari karya Anda. TISE membimbing Anda untuk membangun argumen yang sangat kuat dan koheren, di mana hasil dari satu lapisan menjadi bukti pendukung untuk lapisan di atasnya, menciptakan "rantai bukti" yang logis dari riset fundamental hingga dampak pada pengguna.
+
+Untuk membantu proses ini, buku ini juga menyediakan alat bantu praktis, termasuk **Templat Kosong Kerangka PICOC Berlapis** dan **Daftar Periksa Proposal Riset TISE**, serta **Daftar Periksa Pra-pengiriman Paper IEEE** di Lampiran B. Daftar periksa ini mencakup aspek struktur, konten, kualitas, dan koherensi, memastikan bahwa paper Anda memenuhi standar publikasi ilmiah yang tinggi.
+
+---

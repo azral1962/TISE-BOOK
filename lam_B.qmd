@@ -1,0 +1,64 @@
+Tentu, berikut adalah Lampiran B untuk buku Anda, yang berisi alat bantu praktis untuk mahasiswa:
+
+---
+
+# **Lampiran B: Templat dan Daftar Periksa**
+
+Lampiran ini berisi alat bantu praktis yang dapat langsung digunakan oleh mahasiswa untuk membantu merancang penelitian, menyusun proposal, dan menyiapkan publikasi ilmiah dalam kerangka paradigma Triune-Intelligence Smart-Engineering (TISE).
+
+## **B.1: Templat Kosong Kerangka PICOC Berlapis**
+
+Templat ini dapat digunakan untuk merancang kerangka validasi penelitian Anda di setiap lapisan ASTF, sebagaimana dijelaskan dalam Bab 7 (Metodologi Validasi PICOC Sistematis) dan Tabel 6.1 dalam buku. Ini akan membantu Anda merumuskan pertanyaan penelitian dan merencanakan studi empiris secara sistematis.
+
+**Tabel B.1: Templat PICOC Berlapis untuk Riset Disertasi**
+
+| Komponen PICOC                    | **Lapisan A: Aplikasi (Application Layer)**                                                      | **Lapisan S: Sistem (System Layer)**                                                     | **Lapisan T: Teknologi (Technology Layer)**                                              | **Lapisan F: Riset Fundamental (Fundamental Research Layer)**                                |
+| :-------------------------------- | :----------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| **P (Populasi/Masalah/Proses)**   | Pemangku kepentingan atau masalah spesifik yang ditargetkan.                             | Kumpulan data uji, *testbed*, lingkungan simulasi, atau dataset.                 | Sumber energi, nilai masukan, data mentah, atau material.                         | Fenomena, entitas fundamental, atau nilai sumber yang diselidiki.                      |
+| **I (Intervensi/Peningkatan/Investigasi)** | Solusi baru yang diusulkan.                                                                | Sistem yang diusulkan yang menggabungkan teknologi kunci.                         | Mesin/modul teknologi dengan instrumen atau metode baru.                          | Proses, teori, model, atau pendekatan eksperimental baru.                              |
+| **C (Kontrol/Perbandingan)**      | Solusi lama atau praktik saat ini yang digunakan oleh pemangku kepentingan.                | Sistem yang ada atau sistem dasar (*baseline*).                                   | Mesin/modul teknologi lama atau instrumen/metode yang ada.                       | Proses, teori, model, atau pendekatan eksperimental lama/yang sudah ada.            |
+| **O (Outcome/Luaran)**            | Peningkatan kinerja yang dirasakan (misalnya, efisiensi, pengurangan biaya, kepuasan). | Peningkatan kinerja tingkat sistem (misalnya, akurasi, kecepatan, keandalan).     | Peningkatan kinerja dalam melakukan konversi atau tugas spesifik (misalnya, efisiensi, presisi). | Pengetahuan baru, pemahaman yang lebih dalam, prinsip yang tervalidasi, atau efek baru. |
+| **Cx (Konteks)**                  | Masalah spesifik yang harus dipecahkan dan persyaratan solusi yang berhasil.           | Kebutuhan akan sistem yang lebih baik yang memenuhi persyaratan solusi.          | Tantangan untuk menemukan atau meningkatkan instrumen/metode.                     | Pencarian pengetahuan baru, pemahaman mekanisme fundamental, atau eksplorasi wilayah ilmiah. |
+
+## **B.2: Daftar Periksa Proposal Riset TISE**
+
+Daftar periksa ini dirancang untuk membantu Anda menyusun proposal riset yang komprehensif dan selaras dengan paradigma TISE, mencakup aspek-aspek kunci yang dibahas dalam Bab 9.
+
+**Bagian 1: Definisi Masalah (Lapisan A)**
+*   [ ] Masalah telah didefinisikan dengan jelas dari perspektif pemangku kepentingan.
+*   [ ] Pemangku kepentingan utama (langsung dan tidak langsung) telah diidentifikasi.
+*   [ ] Solusi yang ada (Kontrol) telah dianalisis dan kelemahannya telah diidentifikasi.
+*   [ ] Metrik keberhasilan dari sudut pandang pengguna (Outcome) telah ditetapkan.
+
+**Bagian 2: Usulan Intervensi (Semua Lapisan)**
+*   [ ] Kontribusi orisinal di setiap lapisan ASTF yang relevan telah dinyatakan dengan jelas.
+*   [ ] Peta ASTF untuk intervensi yang diusulkan telah dibuat.
+*   [ ] Hipotesis atau pertanyaan penelitian untuk setiap lapisan telah dirumuskan menggunakan format PICOC.
+
+**Bagian 3: Metodologi**
+*   [ ] Kerangka W-Model untuk proses penelitian telah diuraikan.
+*   [ ] Desain eksperimen/studi untuk setiap validasi PICOC telah dirinci (termasuk populasi, prosedur, dan metrik).
+*   [ ] Alat, perangkat lunak, dan sumber daya yang dibutuhkan telah diidentifikasi.
+
+## **B.3: Daftar Periksa Pra-pengiriman Paper IEEE**
+
+Daftar periksa ini akan membantu Anda memastikan paper Anda memenuhi standar publikasi ilmiah, terutama untuk jurnal atau konferensi IEEE, dengan fokus pada struktur, konten, kualitas, dan koherensi, sesuai dengan pedoman yang diuraikan dalam Bab 9 dan sumber eksternal.
+
+**Struktur dan Konten**
+*   [ ] Judul ringkas, informatif, dan mencerminkan kontribusi utama.
+*   [ ] Abstrak mengikuti struktur 6 poin (Konteks, Masalah, Intervensi, Metodologi, Hasil, Dampak).
+*   [ ] Pendahuluan dengan jelas menyatakan masalah, solusi lama, solusi baru, dan kontribusi.
+*   [ ] Tinjauan pustaka secara kritis mengidentifikasi kesenjangan penelitian.
+*   [ ] Bagian metode cukup rinci untuk direplikasi.
+*   [ ] Hasil disajikan dengan jelas menggunakan gambar dan tabel.
+*   [ ] Pembahasan menghubungkan hasil teknis dengan implikasi praktis.
+*   [ ] Kesimpulan merangkum temuan dan menyarankan langkah selanjutnya.
+
+**Kualitas dan Koherensi**
+*   [ ] "Benang merah" paper jelas dan konsisten.
+*   [ ] Argumen didukung oleh data dari validasi PICOC.
+*   [ ] Hubungan antar lapisan ASTF (jika relevan) dijelaskan.
+*   [ ] Semua referensi diformat sesuai standar IEEE dan dikutip dengan benar.
+*   [ ] Paper telah diperiksa tata bahasa, ejaan, dan kejelasannya.
+
+---

@@ -1,0 +1,42 @@
+Tentu, berikut adalah Lampiran C untuk buku Anda, yang berisi detail metrik dan model kinerja Triune-Intelligence Smart-Engineering (TISE):
+
+---
+
+# **Lampiran C: Detail Metrik dan Model Kinerja TISE**
+
+Lampiran ini menyediakan detail teknis dan model kinerja yang mendalam untuk konsep-konsep inti TISE yang dibahas di bagian utama buku. Ini termasuk pengukuran kapasitas Triune Intelligence (TI), model kinerja Product-Service-Knowledge-Value-Environmental System (PSKVE), dan konsep terkait lainnya yang memperkuat kerangka TISE.
+
+## **C.1: Metrik Kapasitas Triune (Triune Capacity Index - TCI)**
+
+Sebagaimana dibahas di Bab 5 (Siklus Kognitif PUDAL Engine), pengukuran efektivitas dan kapasitas Triune-PUDAL Engine membutuhkan metrik yang melampaui kinerja teknis AI semata, mencakup dimensi Natural Intelligence (NI) dan Cultural Intelligence (CI). **Triune Capacity Index (TCI)** adalah metrik komposit yang menggabungkan berbagai indikator untuk memberikan gambaran holistik tentang kapasitas sistem TISE.
+
+TCI dihitung sebagai rata-rata tertimbang dari beberapa klaster metrik. Jika Anda membutuhkan satu KPI utama, TCI dapat dihitung menggunakan formula berikut:
+$\text{TCI}=w_A \cdot \overline{A}+w_B \cdot \overline{B}+w_C \cdot \overline{C}+w_D \cdot \overline{D}+w_E \cdot \overline{E},$
+di mana $\overline{A}, \overline{B}, \overline{C}, \overline{D}, \overline{E}$ adalah skor rata-rata untuk klaster metrik yang berbeda, dan $w_A, w_B, w_C, w_D, w_E$ adalah bobot yang sesuai.
+
+Beberapa klaster metrik yang relevan untuk TCI meliputi:
+
+1.  **Natural-Intelligence Fitness**: Mengukur kesehatan dan kewaspadaan "lengkung refleks Id + limbik" manusia.
+    *   **Bio-Responsiveness RT (Waktu Reaksi Bio)**: Waktu reaksi median dari stimulus fisik hingga aktuasi aman.
+    *   **Cognitive-Load Index (Indeks Beban Kognitif)**: Usaha mental operator saat mengawasi AI.
+    *   **Trust Calibration Error (Kesalahan Kalibrasi Kepercayaan)**: Kesenjangan antara kepercayaan manusia dan akurasi sebenarnya dari AI.
+
+2.  **Collective Intelligence (Kecerdasan Kolektif)**: Mengukur kemampuan sistem untuk berkolaborasi dan belajar secara sinergis.
+    *   **Decision Alignment Index (Indeks Penyelarasan Keputusan)**: Porsi keputusan akhir yang mengutip masukan dari ketiga pilar kecerdasan (NI, CI, AI).
+    *   **Resolution-Latency (Latensi Resolusi)**: Waktu rata-rata untuk menyelesaikan konflik NI-AI-CI yang ditandai oleh lapisan tata kelola.
+
+3.  **Societal & Ethical Impact (Dampak Sosial & Etika)**: Mengukur nilai "Rekayasa untuk Kemanusiaan" tertinggi.
+    *   **Safety Incident Rate (Tingkat Insiden Keamanan)**: Kejadian kritis per 10 ribu jam operasi.
+    *   **Inclusivity Spread (Penyebaran Inklusivitas)**: Ukuran distribusi nilai di berbagai kelompok pemangku kepentingan. Ini dapat menggunakan ukuran seperti Gini-like measure.
+    *   **Sustainable-Benefit ROI (ROI Manfaat Berkelanjutan)**: Eksternalitas positif bersih jangka panjang (energi yang dihemat, kehidupan yang ditingkatkan) per unit biaya. Ini dapat dievaluasi melalui analisis siklus hidup (*lifecycle analysis*) dan pemetaan SDG (*SDG mappings*).
+
+Metrik-metrik ini, dikelompokkan dalam Indeks Kapasitas Triune (TCI), memungkinkan kita untuk melampaui pertanyaan "Apakah modelnya berfungsi?" menjadi "Apakah seluruh sistem Triune aman, cerdas, adil, dan terus belajar?"—bukti nyata bahwa TI memberikan janjinya untuk kemanusiaan.
+
+## **C.2: Model Kinerja dan Prototipe Virtual PSKV-S**
+
+Konsep Product-Service-Knowledge-Value (PSKV-S) adalah abstraksi kunci dalam TISE untuk menciptakan nilai holistik, sebagaimana dibahas dalam Bab 6. PSKV-S dirancang untuk beroperasi sebagai sebuah "mesin" yang mendorong kekuatan dan pertukaran nilai.
+
+## **C.2.1: Model Konversi Nilai dalam PSKV-S**
+
+Prinsip penciptaan nilai sebuah PSKV dapat diilustrasikan melalui kurva penawaran-permintaan (lihat Gambar C.1). Pada awalnya, ongkos untuk membuat sebuah PSKV mungkin lebih tinggi daripada nilai gunanya. Namun, melalui proses rekayasa, nilai guna dapat dinaikkan dan ongkos diturunkan, menciptakan apa yang disebut "berlian PSKV" di mana nilai guna melebihi ongkos. Nilai yang tercipta ini kemudian dibagi dua oleh harga; bagian atas diambil oleh pembeli, dan bagian bawah diambil oleh penjual.
+

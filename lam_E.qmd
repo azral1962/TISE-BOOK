@@ -1,0 +1,60 @@
+Tentu, berdasarkan sumber yang diberikan dan riwayat percakapan kita, ada materi yang sangat relevan untuk Lampiran D. Lampiran ini akan berfokus pada **Peta Jalan Riset (Research Road Map) TISE** yang diringkas dalam dokumen sumber, memberikan gambaran strategis tentang pengembangan ilmu rekayasa cerdas.
+
+---
+
+# **Lampiran D: Peta Jalan Riset Triune-Intelligence Smart-Engineering (TISE)**
+
+Lampiran ini menyajikan Peta Jalan Riset (Research Road Map) untuk pengembangan Triune-Intelligence Smart-Engineering (TISE), sebagaimana diringkas dalam Tabel 3 dari sumber. Peta jalan ini berfungsi sebagai panduan strategis untuk memperluas tubuh pengetahuan ilmu rekayasa ke dalam Platform Rekayasa Cerdas (PRC), dengan fokus pada permasalahan pengembangan lingkungan hidup yang sehat, kreatif, aman, dan berkelanjutan.
+
+Peta jalan ini mengidentifikasi lima lapisan riset dan pengembangan utama: **Sains, Teknologi, Produk, Pengguna, dan Pasar**. Di setiap lapisan ini, terdapat tema-tema pengembangan yang meliputi **Perangkat Keras (Hardware), Perangkat Lunak (Software), Perangkat Cair (Liquidware), Perangkat Gas (Vapourware), Ruang Cerdas (Smart Space), dan Ruang Spiritual (Spiritual Space)**.
+
+Peta jalan riset ini secara eksplisit menguraikan evolusi riset, mulai dari pemrosesan fundamental hingga rekayasa ruang hidup spiritual.
+
+## **D.1: Ringkasan Peta Jalan Riset TISE**
+
+Berikut adalah ringkasan Peta Jalan Riset TISE (Versi 0.2) yang menggambarkan bagaimana berbagai tema rekayasa berkembang melintasi lapisan riset dan pengembangan selama periode tahun 2021 hingga 2026.
+
+**Tabel D.1: Ringkasan Peta Jalan Riset TISE (Versi 0.2)**
+
+| **TEMA**          | **Perangkat Keras**                                  | **Perangkat Lunak**                                  | **Perangkat Cair**                                     | **Perangkat Gas**                                    | **Ruang Cerdas**                                          | **Ruang Spiritual**                                       |
+| :---------------- | :--------------------------------------------------- | :--------------------------------------------------- | :----------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------- |
+| **MARKET**        | Masyarakat Sadar Covid                               | *Home Care Market*                                   | Pasar Rumah Sehat                                      | Pasar *Home Learning Productivity*                   | Pasar Ekonomi Rumah                                       | Pasar Kreatif Spiritual                                   |
+| **USER**          | Pasien Covid                                         | Pasien Umum                                          | Masyarakat Umum                                        | Masyarakat Profesional                               | Masyarakat Ekonomi                                        | Masyarakat Spiritual                                      |
+| **PRODUK**        | *Coughing Pre Screening*                             | *Home Based Recovery Room*                           | *Smart Healthy Home, Robots*                           | *Productive Learning Home*                           | *Home Based Virtual Economy*                              | *Home Based Virtual World*                                |
+| **TEKNOLOGI**     | *Correlation Fractal Dimension; DSP System*, Platform Modelica | Platform Modelica untuk *Taken ED; Grassberger Algorithm* | Platform Modelica untuk *SPS Smart Engineering*        | Platform Modelica untuk *PSKV Smart Engineering*     | Platform Modelica untuk *Living Space Smart Engineering*  | Platform Modelica untuk *Spiritual Space Smart Engineering* |
+| **SAINS**         | *Fraktal Processing*                                 | *Multifraktal Processing*                            | *SPS Robotic Engineering*                              | *PSKV Engineering*                                   | *Smart Living Engineering*                                | *Smart Spiritual Engineering*                             |
+| **TAHUN**         | **2021**                                             | **2022**                                             | **2023**                                               | **2024**                                             | **2025**                                                  | **2026**                                                  |
+
+## **D.2: Penjelasan Lapisan dan Tema dalam Peta Jalan Riset**
+
+## **D.2.1: Lapisan Riset dan Pengembangan**
+
+1.  **Sains (Science)**: Ini adalah lapisan terdalam, yang berfokus pada penemuan pengetahuan fundamental dan teori-teori baru. Dalam konteks TISE, ini mencakup eksplorasi prinsip-prinsip yang mendasari berbagai jenis kecerdasan dan sistem. Contohnya adalah *Fraktal Processing* dan *Multifraktal Processing*.
+2.  **Teknologi (Technology)**: Lapisan ini berfokus pada pengembangan atau adaptasi teknologi kunci yang memungkinkan solusi inovatif. Ini adalah jembatan antara sains fundamental dan aplikasi praktis. Contohnya penggunaan Platform Modelica untuk berbagai domain rekayasa cerdas.
+3.  **Produk (Product)**: Lapisan ini berurusan dengan artefak berwujud atau tidak berwujud yang dihasilkan. Ini adalah hasil langsung dari upaya rekayasa dan apa yang ditawarkan kepada pengguna. Contohnya, *Smart Healthy Home, Robots*.
+4.  **Pengguna (User)**: Lapisan ini berpusat pada siapa yang akan menggunakan atau berinteraksi dengan produk dan layanan yang dikembangkan. Pemahaman mendalam tentang kebutuhan, perilaku, dan konteks pengguna adalah krusial dalam TISE. Contohnya, *Pasien Covid* dan *Masyarakat Spiritual*.
+5.  **Pasar (Market)**: Lapisan terluar ini mengidentifikasi segmen pasar yang akan dilayani oleh produk dan layanan yang dikembangkan. Ini melibatkan pemahaman tentang permintaan, kompetisi, dan keberlanjutan ekonomi. Contohnya adalah *Masyarakat Sadar Covid* dan *Pasar Kreatif Spiritual*.
+
+## **D.2.2: Tema Pengembangan**
+
+Peta jalan ini mengintegrasikan berbagai tema rekayasa yang mencerminkan sifat multidisiplin dari TISE:
+
+*   **Perangkat Keras (Hardware)**: Berkaitan dengan komponen fisik dan infrastruktur. Ini mencakup energi, materi, dan informasi.
+*   **Perangkat Lunak (Software)**: Berkaitan dengan kode, bahasa pemrograman, dan algoritma.
+*   **Perangkat Cair (Liquidware)**: Merujuk pada konsep yang lebih abstrak seperti algoritma dan pengetahuan.
+*   **Perangkat Gas (Vapourware)**: Mengacu pada nilai, makna, dan relasi, yang lebih *intangible*.
+*   **Ruang Cerdas (Smart Space)**: Berkaitan dengan lingkungan fisik dan virtual yang adaptif dan responsif terhadap kebutuhan manusia. Ini termasuk lingkungan hidup yang cerdas, kreatif, aman, sehat, dan berkelanjutan.
+*   **Ruang Spiritual (Spiritual Space)**: Mengacu pada dimensi kesadaran, realitas, dan imersi untuk lingkungan spiritual, seperti kegiatan peribadatan digital.
+
+## **D.3: Implikasi Peta Jalan Riset TISE**
+
+Peta jalan ini memiliki beberapa implikasi penting untuk riset dan pengembangan dalam kerangka TISE:
+
+*   **Panduan Holistik**: Ini menggarisbawahi pendekatan TISE yang holistik, di mana penelitian di satu lapisan (misalnya, *Fraktal Processing* di lapisan Sains) dapat mendukung pengembangan teknologi di lapisan atasnya (*Correlation Fractal Dimension* di lapisan Teknologi), yang kemudian berujung pada produk dan layanan yang relevan untuk pasar tertentu (misalnya, *Coughing Pre Screening* untuk *Masyarakat Sadar Covid*).
+*   **Integrasi Triune Intelligence**: Setiap tema dan lapisan dalam peta jalan ini dapat dianalisis melalui lensa Triune Intelligence. Misalnya, pengembangan *Smart Spiritual Engineering* (Sains) untuk *Home Based Virtual World* (Produk) bagi *Masyarakat Spiritual* (Pengguna) akan sangat mengandalkan Kecerdasan Kultural untuk mendefinisikan nilai-nilai spiritual, Kecerdasan Alami untuk memahami pengalaman manusia, dan Kecerdasan Buatan untuk menciptakan lingkungan virtual yang imersif.
+*   **Fokus pada Kehidupan Abad ke-21**: Peta jalan ini secara langsung menjawab permasalahan kemanusiaan Abad XXI, yaitu bagaimana manusia menjalani kehidupan yang istimewa melalui kontribusi maksimal berdasarkan pertumbuhan potensi sepenuhnya dalam ruang hidup yang cerdas, kreatif, aman, sehat, dan berkelanjutan. Ini mencakup kebutuhan transformasi energi, material, informasi, otomasi, kecerdasan berbasis pengetahuan, dan ruang imersif.
+*   **Inovasi dan Disrupsi**: Peta jalan ini mendorong inovasi yang mampu menghadapi berbagai disrupsi di lima dimensi kehidupan (Fisik, Biologis, Psikologis, Sosial, Spiritual), memungkinkan pencarian "kebenaran tentang esensi disrupsi dan strategi adaptasi".
+
+Dengan menyediakan peta jalan yang terstruktur ini, TISE tidak hanya membimbing penelitian ke arah inovasi teknis, tetapi juga memastikan bahwa inovasi tersebut selaras dengan kebutuhan manusia yang mendalam dan berkontribusi pada penciptaan masa depan yang lebih baik dan lebih bermakna.
+
+---

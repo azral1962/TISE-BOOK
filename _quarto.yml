@@ -1,0 +1,48 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "TISE Rekayasa Cerdas Berbasis Triune Intelligence:" 
+  subtitle: "Panduan Metodologi, Penulisan Disertasi, dan Alat Bantu untuk Era AI"
+  author: "Armein Z. R. Langi"
+  date: "9/18/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - bab_1.qmd
+    - bab_2.qmd
+    - bab_3.qmd
+    - bab_4.qmd
+    - bab_5.qmd
+    - bab_6.qmd
+    - bab_7.qmd
+    - bab_8.qmd
+    - bab_9.qmd
+    - bab_10.qmd
+    - bab_11.qmd
+    - bab_12.qmd
+    - bab_13.qmd
+    - bab_14.qmd
+    - lam_A.qmd
+    - lam_B.qmd
+    - lam_C.qmd
+    - lam_D.qmd
+    - lam_E.qmd
+    - lam_F.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    keep-tex: true
+
+
+
