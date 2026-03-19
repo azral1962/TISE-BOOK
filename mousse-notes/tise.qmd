@@ -1,0 +1,36 @@
+---
+title: "Pemodelan Antrian: Sebuah Studi Kasus Pengubah Acak Diskrit"
+subtitle: "Catatan Kuliah Probabilitas dan Statistika"  
+bibliography: ref.bib 
+format:
+    typst:
+        keep-typ: true
+        include-before-body:
+            - file:
+                mouse.typ
+---
+
+
+
+
+{{< include ../index.qmd >}}
+
+{{< include ../bab_1.qmd >}}
+
+```{text}
+
+
+{{< include ../bab_2.qmd >}}
+{{< include ../bab_3.qmd >}}
+{{< include ../bab_4.qmd >}}
+{{< include ../bab_5.qmd >}}
+{{< include ../bab_6.qmd >}}
+{{< include ../bab_7.qmd >}}
+{{< include ../bab_8.qmd >}}
+{{< include ../bab_9.qmd >}}
+{{< include ../bab_10.qmd >}}
+{{< include ../bab_11.qmd >}}
+{{< include ../bab_12.qmd >}}
+{{< include ../bab_13.qmd >}}
+{{< include ../bab_14.qmd >}}
+```
